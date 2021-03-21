@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:title="@string/main_menu"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/background_change"
+                android:icon="@drawable/bgmenu"
+                android:title="@string/background"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/bottle_change"
+                android:icon="@drawable/bottle24menu"
+                android:title="@string/bottle"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/ic_face_black_24dp"
+                android:title="@string/about_us"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="@string/share"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/rating"
+                android:icon="@drawable/ic_star_black_24dp"
+                android:title="@string/rating"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/update"
+                android:icon="@drawable/ic_file_download_black_24dp"
+                android:title="@string/update"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/others_app"
+                android:icon="@drawable/ic_apps_black_24dp"
+                android:title="@string/others_app"
+                app:showAsAction="never" />
+        </menu>
+
+    </item>
+</menu>

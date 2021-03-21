@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Truth or Dare Game</string>
+    <string name="about_us">About Us</string>
+    <string name="others_app">Others App</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="share">Share</string>
+    <string name="rating">Rating</string>
+    <string name="update">Check for Update</string>
+    <string name="music">Music</string>
+    <string name="background">Change Background</string>
+    <string name="bottle">Change Bottle</string>
+
+    <string name="my_name_sagor">Md. Nayeem Sagor</string>
+    <string name="my_name_nazmul">Md. Nazmul Hossain</string>
+    <string name="my_name_risalat">S.M.Risalat Hasan Chowdhury</string>
+    <string name="uv_name_ju">MIT, IIT, JU</string>
+    <string name="uv_name_jnu">M.Sc in CSE, JNU</string>
+    <string name="cse_uv_name">B.Sc in CSE, WUB</string>
+    <string name="gmail">sonetsagor@gmail.com</string>
+    <string name="gmail_nazmul">hossainnazmul294@gmail.com</string>
+    <string name="gmail_risalat">anonno.05@gmail.com</string>
+    <string name="exit">Exit</string>
+</resources>
